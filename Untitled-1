@@ -1,0 +1,4 @@
+
+HTTP-Interceptor:
+  to intercept and modify the application's Http request globally before they are sent to the server.
+  
